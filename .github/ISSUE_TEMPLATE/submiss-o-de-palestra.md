@@ -1,6 +1,9 @@
 ---
 name: Submissão de palestra
 about: Para quem tem interesse em fazer uma palestra
+title: "[Proposta] "
+labels: proposta
+assignees: ''
 
 ---
 
