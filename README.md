@@ -2,17 +2,17 @@
 
 ## [Submeta uma proposta ou ideia de palestra](https://github.com/caravelahc/todos-a-bordo/issues/new/choose)
 
-- Para organizadores: [histórico de problemas](./previous-mistakes.md)
+Acompanhe também a organização pelo [Sympla](https://www.sympla.com.br/caravela).
 
 ## Histórico de palestras
 
 ### TaB #1
-- Eleições digitais (Ranieri Schroeder Althoff)
-- ?
+- Tecnologia ao nosso favor nas eleições (Ranieri S. Althoff)
+- Docker: do básico à orquestração (George Tavares)
 
 ### TaB #2
-- [Por que estudar linguagens e Paradigmas](https://github.com/caravelahc/todos-a-bordo/issues/5)
-- 40 minutos de Postgre (Guedes)
+- [Como aprender Computação explorando linguagens e paradigmas](https://github.com/caravelahc/todos-a-bordo/issues/5)
+- 40 minutos de PostgreSQL (Dickson S. Guedes)
 
 ### TaB #3 (Calouros a Bordo)
 - [Isso o curso não mostra](https://github.com/caravelahc/todos-a-bordo/issues/8)
@@ -21,3 +21,7 @@
 ### TaB #4
 - [Introdução a IR de LLVM](https://github.com/caravelahc/todos-a-bordo/issues/14)
 - [Programação de Linguagens](https://github.com/caravelahc/todos-a-bordo/issues/12)
+
+## Para organizadores
+
+- [Registro de problemas em edições anteriores](./previous-mistakes.md)
