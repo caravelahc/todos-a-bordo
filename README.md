@@ -7,7 +7,7 @@
 ## Histórico de palestras
 
 ### TaB #1
-- Segurança digital nas eleições (Ranieri Schroeder Althoff)
+- Eleições digitais (Ranieri Schroeder Althoff)
 - ?
 
 ### TaB #2
