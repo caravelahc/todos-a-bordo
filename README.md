@@ -7,12 +7,12 @@
 ## Histórico de palestras
 
 ### TaB #1
-- [Por que estudar linguagens e Paradigmas](https://github.com/caravelahc/todos-a-bordo/issues/5)
-- 40 minutos de Postgre (Guedes)
+- Segurança digital nas eleições (Ranieri Schroeder Althoff)
+- ?
 
 ### TaB #2
-- ?
-- ?
+- [Por que estudar linguagens e Paradigmas](https://github.com/caravelahc/todos-a-bordo/issues/5)
+- 40 minutos de Postgre (Guedes)
 
 ### TaB #3 (Calouros a Bordo)
 - [Isso o curso não mostra](https://github.com/caravelahc/todos-a-bordo/issues/8)
