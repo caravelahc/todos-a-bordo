@@ -22,6 +22,10 @@ Acompanhe também a organização pelo [Sympla](https://www.sympla.com.br/carave
 - [Introdução a IR de LLVM](https://github.com/caravelahc/todos-a-bordo/issues/14)
 - [Programação de Linguagens](https://github.com/caravelahc/todos-a-bordo/issues/12)
 
+### TaB #5 (Calouros a Bordo)
+- [Green Computing - A Computação Sustentável](https://github.com/caravelahc/todos-a-bordo/issues/7)
+- [Com licença eu tenho direitos](https://github.com/caravelahc/todos-a-bordo/issues/9)
+
 ## Para organizadores
 
 - [Registro de problemas em edições anteriores](./previous-mistakes.md)
